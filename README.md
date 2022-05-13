@@ -1,4 +1,7 @@
-# Hwang In Seong
+# Hwang In Seong 
+<h3>연락처</h3>
+<a href="mailto:tanbbang01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 ## _아직도 배울 것은 산더미_
 > 손이 굳어서가 아니라 호기심이 없어져서 개발을 그만두는 것이다. from 인터넷 어딘가.. 
 > 
@@ -8,8 +11,6 @@
 - 재미있어 보이는 것을 계속해서 찾자.
 - 생각은 그만. 행동으로 실천하자.
 
-<h3>연락처</h3>
-<a href="mailto:tanbbang01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 <h3>🛠버전관리</h3>
