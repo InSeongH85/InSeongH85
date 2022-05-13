@@ -7,7 +7,10 @@
 - 계속 변해가는 기술들
 - 재미있어 보이는 것을 계속해서 찾자.
 - 생각은 그만. 행동으로 실천하자.
-- 
+
+<h3>연락처</h3>
+<a href="mailto:tanbbang01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 
 <h3>🛠버전관리</h3>
 <div>
