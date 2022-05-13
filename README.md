@@ -37,7 +37,6 @@
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/ApacheGroovy-4298B8?style=flat-square&logo=ApacheGroovy&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/AngularJs-E23237?style=flat-square&logo=AngularJs&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -69,6 +68,8 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
+
+
 <h3>🛠관심</h3>
 <div>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
